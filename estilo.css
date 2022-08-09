@@ -21,3 +21,10 @@ h1{
   right: 0;
   bottom: 0;
 }
+.menuPrincipal{
+  position: absolute;
+  width: 100%;
+  height: 80px;
+  background: rgb(206, 125, 20);
+}
+
